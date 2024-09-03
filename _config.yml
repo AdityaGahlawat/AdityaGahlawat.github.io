@@ -23,7 +23,7 @@ twitter_username: username
 github_username: username
 
 
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: dark
 search: true
 
