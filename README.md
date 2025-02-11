@@ -1,7 +1,7 @@
 # Aditya Gahlawat 
 ## Research Engineer
 **Mechanical Science and Engineering**  
-**Univeristy of Illinois at Urbana-Champaign**  
+**University of Illinois at Urbana-Champaign**  
 ***Research Interests:*** Stochastic processes, infinite-dimensional systems, control theory, and machine learning
 
 [Publications](https://scholar.google.com/citations?user=srVEmhwAAAAJ&hl=en)
